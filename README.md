@@ -3,9 +3,6 @@
 
 #### Simple REST API builded with Django-rest-framework.
 
-## Check Postman documentation: 
-https://www.getpostman.com/collections/e4799db5c7f8a0e012d5
-
 ## Check Swagger documentation: 
 https://news-api-board-test.herokuapp.com/redoc/
 
